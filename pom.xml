@@ -107,7 +107,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>teslaIII</finalName>
+		<finalName>teslaIV</finalName>
 		
 		<plugins>
 			<plugin>
